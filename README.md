@@ -64,6 +64,13 @@ This dashboard can support multiple business teams, including:
 
 ---
 
+## 👀 Dashboard Preview
+Click the image below to view the full dashboard ⬇️
+
+[![Dashboard Preview](./Dashboard_Screenshot.png)](./Dashboard_Screenshot.png)
+
+---
+
 ## 🏁 How to Use
 1️⃣ Download or clone the repository  
 2️⃣ Open **sales_analysis.xlsx** in Excel (2016 or later)  
